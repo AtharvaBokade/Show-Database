@@ -1,0 +1,28 @@
+.box{
+    position: absolute;
+    width:21em;
+    height:25em;
+    top:25%;
+    left:40%;
+    border-top-left-radius: 1em;
+    background-color:aliceblue;
+}
+.align{
+    position: relative;
+    left:1em;
+}
+.align_textArea{
+    position: absolute;
+    top:55%;
+    left:1em;
+    
+}
+.nameAbout{
+    position: relative;
+    top:5%;
+}
+.submit{
+    position: absolute;
+    top:87%;
+}
+
